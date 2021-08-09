@@ -1,0 +1,3 @@
+Once you download exe go to the path and run below command in CMD or Git bash
+
+$minishift.exe start --vm-driver=virtualbox  --network-nameserver 8.8.8.8
